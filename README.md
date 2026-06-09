@@ -1,16 +1,60 @@
-## Hi there 👋
+# 안녕하세요, 와이작가 이윤정입니다 ✍️
 
-<!--
-**wybooklab/wybooklab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+공학박사 출신 작가이자 책쓰기 코치입니다.
 
-Here are some ideas to get you started:
+📚 Reading · ✍️ Writing · 🤖 AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+연구자의 시선으로 독서와 글쓰기를 시스템화하고,
+누구나 자신의 경험을 책으로 만들 수 있도록 돕고 있습니다.
+
+---
+
+## 👋 About Me
+* 전자공학 박사 (Ph.D.)
+* 국방과학연구소(ADD) 책임연구원 16년
+* 작가 · 책쓰기 코치
+* Founder of FIREBOOK Writing Lab
+
+## 🏆 Achievements
+* 하루 10분 평단지기 독서 실천 3,000일+ (2017.04.17 시작)
+* 누적 독서 700권+
+* 26명의 작가 배출
+* 공저 프로젝트 4권 기획 · 출간
+
+## 🚀 What I Do
+* 책쓰기 코칭
+* 공저 프로젝트 기획 · 운영
+* 독서모임 운영
+* AI 활용 콘텐츠 제작
+* 독서 · 글쓰기 시스템 연구
+
+## 📖 Books
+
+**저서**
+* 《평단지기 독서법》
+* 《10년 먼저 시작하는 여유만만 은퇴생활》
+* 《습관은 시스템이다》
+
+**공저**
+* 《글쓰기를 시작합니다》
+* 《글쓰기 어쩌다 노하우》
+
+**전자책**
+* 《템플릿이 콘텐츠다》
+* 《실속있는 독서의 힘》
+* 《월급쟁이, 작가가 되다》
+* 《십나오 여유당 글쓰기》 시리즈
+
+## 🔥 FIREBOOK Writing Lab
+* 책쓰기 프로그램 · 출판 기획 컨설팅
+* 공저 출간 프로젝트
+* 전자책 쓰기 프로그램
+* 평단지기 독서클럽 운영
+* AI 시대의 오리지널 콘텐츠 연구
+* 커뮤니티 운영 : 여유당 글쓰기, 북위키 독서모임
+
+---
+
+> 삶을 정리하면 책이 됩니다.
+>
+> **Write · Share · Enjoy**
