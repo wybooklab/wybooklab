@@ -55,6 +55,13 @@
 
 ---
 
+## 🌐 Connect With Me
+책 · 블로그 · 브런치 · 스레드 · 인스타그램 · 유튜브 · 오픈채팅방을 한 곳에서 만나보세요.
+
+🔗 https://litt.ly/ywritingcoach
+
+---
+
 > 삶을 정리하면 책이 됩니다.
 >
 > **Write · Share · Enjoy**
